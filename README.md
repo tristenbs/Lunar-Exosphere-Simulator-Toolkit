@@ -13,3 +13,5 @@ terrestrial magnetosphere ions, photoionization, photodissociation, and escape.
 Simulation of the encounters of atoms or molecules with the lunar surface amounts to
 random migration in a computer generated, fairycastlelike structure of loosely packed
 soil grains
+
+LExS was developed by Dr. Richard Hodges, and is currently being transferred to github.
