@@ -1,5 +1,5 @@
 # Lunar-Exosphere-Simulator-Toolkit
-# DESCRIPTION TODO
+
 
 The Lunar Exosphere Simulator can be thought of as a generalized subroutine that can be
 incorporated into a Monte Carlo program that, in turn, collects statistical data on the
